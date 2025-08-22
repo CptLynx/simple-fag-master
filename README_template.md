@@ -124,10 +124,3 @@
   - devChallenges — challenge prompt and design
   - Accessibility resources and patterns (WAI-ARIA) that guided the accordion implementation
 
-  ---
-
-  If you'd like, I can:
-
-  - copy this content into `README.md` at the repository root, 
-  - create a small demo GIF for you from a short recording you provide, or
-  - change the workflow to publish from a different branch or folder.
